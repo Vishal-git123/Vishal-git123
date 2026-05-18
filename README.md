@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  👋Hi,I'm Vishal
 Full Stack Developer focused on building scalable web applications and strengthening problem-solving skills through competitive programming. Skilled in JavaScript, C++, Python, and the MERN stack with hands-on experience in developing responsive full-stack projects and REST APIs.<br><br>Solved 750+ DSA problems on LeetCode<br> and actively improving in Data Structures, Algorithms, and system-level problem solving. Experienced in building CRUD applications, backend integrations, authentication systems, and responsive user interfaces.<br><br>Tech Stack:<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, Mongoose<br>Core CS: DSA, OOP, OS, DBMS
 
 
